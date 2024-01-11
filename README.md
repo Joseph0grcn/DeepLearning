@@ -94,8 +94,8 @@ Projeyi yerel bir ortamda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **GitHub'dan Projenin Klonlanması:**
    - Terminal veya komut istemcisini açın.
-   - Projenin GitHub deposuna gidin: `https://github.com/arzuv-hudaynazarova/Deep_Learning_Project`.
-   - `git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git` komutunu kullanarak projeyi bilgisayarınıza klonlayın.
+   - Projenin GitHub deposuna gidin: `https://github.com/Joseph0grcn/DeepLearning`.
+   - `git clone https://github.com/Joseph0grcn/DeepLearning` komutunu kullanarak projeyi bilgisayarınıza klonlayın.
 
 ### Bağımlılıkların Kurulumu:
 
@@ -137,7 +137,7 @@ Yeni bir Colab notebook oluşturun. Bunu yapmak için, "File" menüsünden "New 
 Projenin Klonlanması:
 Oluşturduğunuz notebook'ta, aşağıdaki komutu çalıştırarak projeyi klonlayın:
 !git clone [Projenizin GitHub Linki]
-Örneğin: !git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git
+Örneğin: !git clone https://github.com/Joseph0grcn/DeepLearning.git
 
 Veri Setinin İndirilmesi ve Yüklenmesi:
 Veri setini bu linkten indirin.
@@ -151,7 +151,7 @@ Notebook içerisindeki kod hücrelerini sırasıyla çalıştırarak projenin ku
 Eğer Jupyter Notebook yüklü değilse, Jupyter'in resmi web sitesinden Jupyter Notebook'u indirip kurun.
 
 Projenin Klonlanması ve Ortamın Hazırlanması:
-Terminal veya komut istemi aracılığıyla, git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git komutu ile projeyi klonlayın.
+Terminal veya komut istemi aracılığıyla, git clone https://github.com/Joseph0grcn/DeepLearning.git komutu ile projeyi klonlayın.
 Klonlanan projenin dizinine gidin ve pip install -r requirements.txt komutu ile gerekli kütüphaneleri yükleyin.
 
 Veri Setinin Eklenmesi:
