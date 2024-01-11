@@ -178,7 +178,7 @@ Karşılaştığım zorlukları aşmada, Stack Overflow ve GitHub gibi platforml
 
 ## İletişim
 
-Proje hakkında herhangi bir sorunuz veya öneriniz varsa, benimle iletişime geçmekten çekinmeyin. Sorularınızı doğrudan e-posta yoluyla gönderebilirsiniz: [erdemliasena@gmail.com](mailto:erdemliasena@gmail.com). Ayrıca, projenin ilerlemesini takip etmek ve güncel bilgilere ulaşmak için LinkedIn ve Gitub hesaplarımı ziyaret edebilirsiniz:
+Proje hakkında herhangi bir sorunuz veya öneriniz varsa, benimle iletişime geçmekten çekinmeyin. Sorularınızı doğrudan e-posta yoluyla gönderebilirsiniz: [yusuf.gurcan.34@hotmail.com](mailto:yusuf.gurcan.34@hotmail.com). Ayrıca, projenin ilerlemesini takip etmek ve güncel bilgilere ulaşmak için LinkedIn ve Gitub hesaplarımı ziyaret edebilirsiniz:
 
 - LinkedIn: https://www.linkedin.com/in/yusufgurcanyazılım/
 - GitHub: https://github.com/Joseph0grcn
